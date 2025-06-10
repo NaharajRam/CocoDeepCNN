@@ -1,0 +1,9 @@
+WCLWD_DryingofLeaflets
+WCLWD_Flaccidity
+WCLWD_Yellowing
+bud root dropping
+bud rot
+gray leaf spot
+healthy_leaves
+leaf rot
+stem bleeding
